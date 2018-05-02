@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="h/2018/05/what-todays-enterprise-needs-to-know.html"}
-if(x=="2"){xxx="/2018/05/3-issues-private-equity-should-consider.html"}
-if(x=="3"){xxx="/2018/05/how-can-you-measure-value-of-erp.html"}
-if(x=="4"){xxx="/2018/05/4-ways-automation-can-improve-field.html"}
-if(x=="5"){xxx="/2018/05/three-best-practices-for-erp-change.html"}a_to_ve[i].href="http://www.pcbtoolsdesign.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/02/top-predictions-for-erp-software.html"}
+if(x=="2"){xxx="/2018/02/five-erp-software-trends-to-watch-in.html"}
+if(x=="3"){xxx="/2018/02/best-practices-from-erp-expert-witness.html"}
+if(x=="4"){xxx="/2018/02/4-ways-erp-software-can-driver.html"}
+if(x=="5"){xxx="/2018/02/top-five-things-to-do-prior-to.html"}a_to_ve[i].href="http://www.pcbtoolsdesign.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
